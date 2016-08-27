@@ -1,0 +1,10 @@
+# Site settings
+title: The Haha Scale
+tag_text: The Haha Scale
+description: Seriously funny.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
