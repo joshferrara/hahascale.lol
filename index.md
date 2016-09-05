@@ -5,7 +5,7 @@ layout: default
 ### Introduction
 Communicating through text is hard. Apparently, reacting to the stupid things your hilarious friends say is also difficult, because you've invented "words" like `haha`, `lol`, `rofl`, and `lmao` to show when something is funny to you. 
 
-On top of the ridiculous words you've invented, it's _still_ impossible to tell when you think one thing is funnier than another thing. Is `hahaha` more or less funny than `lol`? More importantly, how bad do you plan to ruin the English language before you're satisfied? Animals.
+On top of the ridiculous words you've invented, it's _still_ impossible to tell when you think one thing is funnier than another thing. Is `hahaha` more or less funny than `lol`? More importantly, how badly do you plan to ruin the English language before you're satisfied? Animals.
 
 ### Usage
 This system is designed to give you and your stupid friends a uniform way to communicate your reaction to funny stuff. It's pretty simple, but you should probably pay attention.
