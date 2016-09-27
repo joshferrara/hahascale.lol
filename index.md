@@ -30,9 +30,11 @@ There are only three rules:
 At the end of the day, your friends probably aren't as funny as you think they are, but at least now we can all be on the same page with our reactions to humor. Please stop `lol`ing.
 
 ### Credits
-If you think this is `ha10`, you should probably go ahead and follow us on Twitter because we're always this hilarious.
+If you think this is `ha10`, you should probably go ahead and follow us on Twitter because we're always this hilarious. If you're an iOS user, you'll probably also want to download our sticker pack on the app store.
 
 <a class="twitter-follow-button" data-size="large" data-show-count="false" href="https://twitter.com/jonathansimmons">Follow @jonathansimmons</a>
 <a class="twitter-follow-button" data-size="large" data-show-count="false" href="https://twitter.com/joshbob">Follow @joshbob</a>
+
+<a href="https://itunes.apple.com/us/app/the-haha-scale-sticker-pack/id1158631658?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a>
 
 <span class="copyright">&copy; 2016 [Jonathan Simmons](http://jonathandsimmons.com/) & [Josh Ferrara](http://josh-bob.com)</span>
