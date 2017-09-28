@@ -33,7 +33,7 @@ At the end of the day, your friends probably aren't as funny as you think they a
 If you think this is `ha10`, you should probably go ahead and follow us on Twitter because we're always this hilarious. If you're an iOS user, you'll probably also want to download our sticker pack on the app store.
 
 <a class="twitter-follow-button" data-size="large" data-show-count="false" href="https://twitter.com/jonathansimmons">Follow @jonathansimmons</a>
-<a class="twitter-follow-button" data-size="large" data-show-count="false" href="https://twitter.com/joshbob">Follow @joshbob</a>
+<a class="twitter-follow-button" data-size="large" data-show-count="false" href="https://twitter.com/joshferrara">Follow @joshferrara</a>
 
 <a href="https://itunes.apple.com/us/app/the-haha-scale-sticker-pack/id1158631658?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a>
 
