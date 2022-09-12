@@ -8,7 +8,7 @@ Communicating through text is hard. Apparently, reacting to the stupid things yo
 On top of the ridiculous words you've invented, it's _still_ impossible to tell when you think one thing is funnier than another thing. Is `hahaha` more or less funny than `lol`? More importantly, how badly do you plan to ruin the English language before you're satisfied? Animals.
 
 ### Usage
-This system is designed to give you and your stupid friends a uniform way to communicate your reaction to funny stuff. It's pretty simple, but you should probably pay attention.
+This system is designed to give you and your silly friends a uniform way to communicate your reaction to funny stuff. It's pretty simple, but you should probably pay attention.
 
 There are only three rules: 
 
@@ -18,13 +18,13 @@ There are only three rules:
 
 ### Examples
 
-> `ha2` = Lame friend tricks you with [an unexpected video](https://youtu.be/dQw4w9WgXcQ).
+> `ha2` = Funny friend tricks you with [an unexpected video](https://youtu.be/dQw4w9WgXcQ).
 
-> `ha9` = Dumb friend sends you [a Kevin Hart clip](https://youtu.be/NFvOdmTF57c).
+> `ha9` = Hilarious friend sends you [a Kevin Hart clip](https://youtu.be/NFvOdmTF57c).
 
-> `ha5` = Idiot friend forwards a [Hillary Clinton GIF](http://i.giphy.com/bSjzF3P9vMFZ6.gif).
+> `ha5` = Clown friend forwards a [Hillary Clinton GIF](http://i.giphy.com/bSjzF3P9vMFZ6.gif).
 
-> `ha1` = Stupid friend tells a "your mom" joke.
+> `ha1` = Jokster friend tells a "your mom" joke.
 
 ### Summary
 At the end of the day, your friends probably aren't as funny as you think they are, but at least now we can all be on the same page with our reactions to humor. Please stop `lol`ing.
