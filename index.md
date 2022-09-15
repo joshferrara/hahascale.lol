@@ -32,8 +32,8 @@ At the end of the day, your friends probably aren't as funny as you think they a
 ### Credits
 If you think this is `ha10`, you should probably go ahead and follow us on Twitter because we're always this hilarious. 
 
-<a class="twitter-follow-button" data-size="large" data-show-count="false" href="https://twitter.com/jonathansimmons">Follow @jonathansimmons</a>
-<a class="twitter-follow-button" data-size="large" data-show-count="false" href="https://twitter.com/joshferrara">Follow @joshferrara</a>
+<a href="https://twitter.com/jonathansimmons?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @jonathansimmons</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/joshferrara?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @joshferrara</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Downloads
 To assist you in saving the world from `lol`, you'll probably want to download our [iMessage sticker pack](https://itunes.apple.com/us/app/the-haha-scale-sticker-pack/id1158631658?mt=8) on the app store, and our our [custom Slack emoji](https://hahascale.lol/haha-scale-slack-emoji.zip) as well.
