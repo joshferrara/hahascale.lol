@@ -37,8 +37,8 @@ To assist you in saving the world from `lol`, you'll probably want to download o
 ### Credits
 If you think this is `ha10`, you should probably go ahead and follow us on Twitter because we're always this hilarious. 
 
-<a href="https://twitter.com/jonathansimmons?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @jonathansimmons</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/joshferrara?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @joshferrara</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/jonathansimmons?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @jonathansimmons</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/joshferrara?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @joshferrara</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <hr>
 
