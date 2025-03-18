@@ -42,4 +42,4 @@ If you think this is `ha10`, you should probably go ahead and follow us on Twitt
 
 <hr>
 
-<span class="copyright">&copy; 2016 — 2023 [Jonathan Simmons](http://jonathandsimmons.com/) & [Josh Ferrara](http://joshferrara.com)</span>
+<span class="copyright">&copy; 2016 — 2025 [Jonathan Simmons](http://jonathandsimmons.com/) & [Josh Ferrara](http://joshferrara.com)</span>
