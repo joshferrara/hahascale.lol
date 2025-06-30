@@ -150,3 +150,41 @@ pre > code {
   margin: 0 auto;
   padding: 0 1rem;
 }
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+  }
+
+  a {
+    color: #4da6ff; /* Lighter blue for better contrast in dark mode */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #f0f0f0;
+  }
+
+  blockquote {
+    border-left: .25rem solid #555;
+    color: #bbb;
+  }
+
+  hr {
+    border-bottom: 1px solid #555;
+  }
+
+  table {
+    border: 1px solid #555;
+  }
+
+  td, th {
+    border: 1px solid #555;
+  }
+
+  pre, code {
+    background-color: #2d2d2d;
+    color: #e0e0e0;
+  }
+}
