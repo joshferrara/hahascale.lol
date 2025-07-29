@@ -20,19 +20,19 @@ There are only three rules:
 
 ### Examples
 
-> `ha2` = Friend sends you [a TikTok that's been on your FYP for weeks](link to overused TikTok trend).
+> `ha2` = Friend sends you a TikTok that's been on your FYP for weeks.
 
-> `ha9` = That one friend who always finds [unhinged Twitter/X threads](link to viral thread screenshot) before they blow up.
+> `ha9` = That one friend who always finds unhinged Twitter/X threads before they blow up.
 
-> `ha5` = Coworker shares [a millennial pause video](link to millennial pause compilation) in the group chat.
+> `ha5` = Coworker shares a millennial pause video in the group chat.
 
 > `ha1` = Someone replies with just "this" to your message.
 
-> `ha7` = Friend sends [perfectly timed SpongeBob meme](link to relevant SpongeBob reaction image) in response to your life crisis.
+> `ha7` = Friend sends perfectly timed SpongeBob meme in response to your life crisis.
 
-> `ha3` = Dad discovers [a meme format from 2020](link to outdated Bernie Sanders mittens meme) and thinks he's hilarious.
+> `ha3` = Dad discovers a meme format from 2020 and thinks he's hilarious.
 
-> `ha8` = [That friend who quotes Vine/TikTok audio](link to iconic audio) at the perfect moment IRL.
+> `ha8` = That friend who quotes Vine/TikTok audio at the perfect moment IRL.
 
 > `ha4` = Someone sends a Minion meme unironically.
 
