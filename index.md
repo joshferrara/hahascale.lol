@@ -4,7 +4,7 @@ layout: default
 
 ### Introduction
 
-Communicating through text is hard. Apparently, reacting to the stupid things your hilarious friends say is also difficult, because you've invented "words" like `haha`, `lol`, `rofl`, and `lmao` to show when something is funny to you.
+Communicating through text is hard. Apparently, reacting to the things your hilarious friends say is also difficult, because you've invented "words" like `haha`, `lol`, `rofl`, and `lmao` to show when something is funny to you.
 
 On top of the ridiculous words you've invented, it's _still_ impossible to tell when one thing is funnier than another. Is `hahaha` more or less funny than `lol`? Is `😂` stronger than `💀`? More importantly, how many skull emojis does it take before we collectively agree you're being dramatic? Animals.
 
