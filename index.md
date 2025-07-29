@@ -20,21 +20,25 @@ There are only three rules:
 
 ### Examples
 
-> `ha2` = Friend sends you a TikTok that's been on your FYP for weeks.
-
-> `ha9` = That one friend who always finds unhinged Twitter/X threads before they blow up.
-
-> `ha5` = Coworker shares a millennial pause video in the group chat.
-
 > `ha1` = Someone replies with just "this" to your message.
 
-> `ha7` = Friend sends perfectly timed SpongeBob meme in response to your life crisis.
+> `ha2` = Friend sends you a TikTok that's been on your FYP for weeks.
 
 > `ha3` = Dad discovers a meme format from 2020 and thinks he's hilarious.
 
+> `ha4` = Someone sends a Minion meme unironically.
+
+> `ha5` = Coworker shares a millennial pause video in the group chat.
+
+> `ha6` = Friend accidentally sends a meme to the family group chat that was meant for the homies.
+
+> `ha7` = Friend sends perfectly timed SpongeBob meme in response to your life crisis.
+
 > `ha8` = That friend who quotes Vine/TikTok audio at the perfect moment IRL.
 
-> `ha4` = Someone sends a Minion meme unironically.
+> `ha9` = That one friend who always finds unhinged Twitter/X threads before they blow up.
+
+> `ha10` = Someone creates an entire PowerPoint presentation just to roast you in the group chat.
 
 ### Summary
 
