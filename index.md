@@ -59,4 +59,4 @@ If you think this is `ha10`, you should probably check your sense of humor (and 
 
 <hr>
 
-<span class="copyright">&copy; 2016 — 2025 [Jonathan Simmons](http://jonathandsimmons.com/) & [Josh Ferrara](http://joshferrara.com)</span>
+<span class="copyright">&copy; 2016 — 2026 [Jonathan Simmons](http://jonathandsimmons.com/) & [Josh Ferrara](http://joshferrara.com)</span>
