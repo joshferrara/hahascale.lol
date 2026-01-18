@@ -2,9 +2,13 @@
 title: The Haha Scale
 tag_text: The Haha Scale
 description: Seriously funny.
+url: https://hahascale.lol
 
 # Build settings
 markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
+
+# Ensure markdown folder is included in build output
+include: ["markdown"]
