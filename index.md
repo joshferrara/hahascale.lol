@@ -1,5 +1,6 @@
 ---
 layout: default
+markdown_path: /markdown/index.md
 ---
 
 ### Introduction
