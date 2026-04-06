@@ -11,3 +11,53 @@
 span.copyright {
   font-size: 70%;
 }
+
+/* Contact Us toggle */
+.contact-toggle-wrapper {
+  max-width: 30rem;
+  margin: 3rem auto 0;
+  padding: 0 1rem;
+  text-align: center;
+}
+
+.contact-toggle {
+  background: none;
+  border: none;
+  color: #999;
+  font-size: 0.8rem;
+  font-family: inherit;
+  cursor: pointer;
+  padding: 0.25rem 0;
+  transition: color 0.2s;
+}
+
+.contact-toggle:hover {
+  color: #666;
+}
+
+.contact-panel {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease, opacity 0.3s ease;
+  opacity: 0;
+}
+
+.contact-toggle-wrapper.open .contact-panel {
+  max-height: 600px;
+  opacity: 1;
+  margin-top: 1rem;
+}
+
+.contact-toggle-wrapper.open .contact-toggle {
+  color: #666;
+}
+
+@media (prefers-color-scheme: dark) {
+  .contact-toggle {
+    color: #666;
+  }
+  .contact-toggle:hover,
+  .contact-toggle-wrapper.open .contact-toggle {
+    color: #999;
+  }
+}
