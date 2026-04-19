@@ -15,33 +15,33 @@
     <h1><a href="./">{{ site.tag_text }}</a></h1>
     {{ content }}
   </div>
-  <div class="contact-toggle-wrapper">
-    <button class="contact-toggle" onclick="this.parentElement.classList.toggle('open')">Contact Us</button>
-    <div class="contact-panel">
-      <!-- Issued Widget -->
-      <div id="issued-widget-container"></div>
-    </div>
-  </div>
-
+  <!-- Issued Widget -->
+  <div id="issued-widget-container"></div>
   <script src="https://issued.dev/widget/issued.js"></script>
   <script>
     Issued.init({
-      "projectId": "ks738kdht2rjs6hvrthbkr336x84bm7w",
+      "projectId": "ks7dt4yv6e17v8w42n0ybptt4x854j94",
       "fields": {
-        "subject": { "visible": true, "required": true, "label": "Subject" },
-        "description": { "visible": true, "required": true, "label": "Description" },
-        "email": { "visible": true, "required": false, "label": "Email" },
-        "name": { "visible": true, "required": false, "label": "Name" }
+        "description": {
+          "visible": true,
+          "required": true
+        },
+        "email": {
+          "visible": true,
+          "required": true
+        }
       },
-      "customization": {
-        "theme": "light",
-        "primaryColor": "#3b82f6",
-        "borderRadius": 8,
-        "fontFamily": "system-ui, sans-serif"
-      },
-      "metadata": {
-        "projectName": "HahaScale.lol",
-        "githubRepo": "joshferrara/hahascale.lol"
+      "launcher": {
+        "enabled": true,
+        "mode": "popover",
+        "style": "pill",
+        "position": "bottom-right",
+        "label": "Help",
+        "icon": "chat",
+        "color": "#0e6227",
+        "modal": {
+          "headerTitle": "Support"
+        }
       }
     });
   </script>
